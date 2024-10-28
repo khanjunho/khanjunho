@@ -35,7 +35,7 @@
 
 | 프로젝트 이름 | 내용 | 링크 |
 |---------------|------|------|
-| **소모임 시스템 개발** | 백엔드 시스템 개발 관련 다양한 API 연동(시큐리티) 및 유지보수를 진행하는 프로젝트입니다. | [GitHub](https://github.com/sandokgi/backend/tree/master) |
+| **소모임 시스템 개발** | 백엔드 시스템 개발 와글와글 소모임 진행하는 프로젝트입니다. | [GitHub](https://github.com/sandokgi/backend/tree/master) |
 | **알고리즘 스터디** | 알고리즘 문제를 함께 풀고 토론하며 문제 해결 능력을 향상시키는 알고리즘 스터디입니다. | [GitHub](https://github.com/algorithm-sutudy) |
 
 ### 📫 프로젝트
