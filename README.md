@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/khanjunho/khanjunho)](https://github.com/khanjunho/khanjunho)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAN-JUNHO&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanjunho&show_icons=true&theme=radical)
 
 🌱 **현재상태**: #백엔드 개발  
 📧 **이메일**: junho6667@gmail.com  
