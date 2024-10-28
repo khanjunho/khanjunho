@@ -2,7 +2,7 @@
 
 ### 👋 안녕하세요! 백엔드 개발자 박준호입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KAN-JUNHO/KAN-JUNHO)](https://github.com/KAN-JUNHO/KAN-JUNHO)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/khanjunho/khanjunho)](https://github.com/khanjunho/khanjunho)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAN-JUNHO&show_icons=true&theme=radical)
 
